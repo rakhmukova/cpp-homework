@@ -1,0 +1,21 @@
+Возведение в квадрат и сложение целых чисел
+
+Number of elements: 1000
+	Sequential MapReduce: 0 ms
+	OpenMP MapReduce: 3 ms
+
+Number of elements: 10000
+	Sequential MapReduce: 1 ms
+	OpenMP MapReduce: 2 ms
+
+Number of elements: 100000
+	Sequential MapReduce: 6 ms
+	OpenMP MapReduce: 6 ms
+
+Number of elements: 1000000
+	Sequential MapReduce: 60 ms
+	OpenMP MapReduce: 22 ms
+
+Number of elements: 10000000
+	Sequential MapReduce: 512 ms
+	OpenMP MapReduce: 185 ms

@@ -1,0 +1,22 @@
+Транспонирование и умножение матриц 3 на 3
+
+
+Number of elements: 10
+	Sequential MapReduce: 0 ms
+	OpenMP MapReduce: 3 ms
+
+Number of elements: 100
+	Sequential MapReduce: 1 ms
+	OpenMP MapReduce: 1 ms
+
+Number of elements: 1000
+	Sequential MapReduce: 7 ms
+	OpenMP MapReduce: 3 ms
+
+Number of elements: 10000
+	Sequential MapReduce: 67 ms
+	OpenMP MapReduce: 15 ms
+
+Number of elements: 100000
+	Sequential MapReduce: 683 ms
+	OpenMP MapReduce: 135 ms
